@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(1, 1, 61);
+    overflow-x: hidden;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
